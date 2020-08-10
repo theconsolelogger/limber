@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Alembic for database migrations.
 - User and ApiKey models and migration scripts.
 - Configurations for app, cache, and database.
+- Add storage and cache folders for caching system.
 
 ### Changes
 - Pipenv to poetry for package management.
