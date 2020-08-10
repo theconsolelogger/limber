@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - User and ApiKey models and migration scripts.
 - Configurations for app, cache, and database.
 - Add storage and cache folders for caching system.
+- Add http folders for handling requests and generating responses.
 
 ### Changes
 - Pipenv to poetry for package management.
