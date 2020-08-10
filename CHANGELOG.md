@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add storage and cache folders for caching system.
 - Add http folders for handling requests and generating responses.
 - Create welcome route.
+- Establish main script to setup the application.
 
 ### Changes
 - Pipenv to poetry for package management.
