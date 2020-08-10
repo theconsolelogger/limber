@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Routing mechanism for API routes.
 - Alembic for database migrations.
 - User and ApiKey models and migration scripts.
+- Configurations for app, cache, and database.
 
 ### Changes
 - Pipenv to poetry for package management.
