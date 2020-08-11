@@ -25,4 +25,4 @@ service_providers = [
 ]
 
 class AppConfig(BaseConfig):
-    name: Optional[str] = Field(..., env='APP_NAME')
+    name: Optional[str] = Field('limber', env='APP_NAME')

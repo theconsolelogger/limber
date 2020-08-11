@@ -12,7 +12,7 @@ from limber.routes.api import router as api_router
 
 # Establish application
 app = Application(
-    base_path=getcwd() + '/' + AppConfig().name + '/storage/cache'
+    base_path=getcwd() + '/' + AppConfig().name
 )
 
 # Register services

@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1] - 2020-08-11
+### Added
+- CACHE_PATH environment variable for use with the FileStore class.
+
+### Changed
+- Update limberframework to 0.1.1.
+- Application base_path construction.
+
 ## [0.1.0] - 2020-08-10
 ### Added
 - Documentation files: README.md; LICENSE.txt; CONTRIBUTING.md; CODEOFCONDUCT.md; and, CHANGELOG.md.
