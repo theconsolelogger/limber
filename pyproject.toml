@@ -4,7 +4,7 @@ build-backend = "poetry.masonry.api"
 
 [tool.poetry]
 name = "limber"
-version = "0.1.0"
+version = "0.1.1"
 description = "A python web application framework built using FastAPI."
 license = "MIT"
 authors = ["Jonathan Staniforth <jonathanstaniforth@gmail.com>"]
@@ -22,8 +22,8 @@ pydantic = "1.6.1"
 psycopg2 = "2.8.5"
 uvicorn = "0.11.5"
 alembic = "1.4.2"
-limberframework = "0.1.0"
 python-dotenv = "0.14.0"
+limberframework = "0.1.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.4"
